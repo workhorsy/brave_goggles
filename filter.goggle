@@ -1,6 +1,6 @@
 ! name: My Goggle
 ! description: Filter annoying websites from search
-! public: false
+! public: true
 ! author: Me
 
 ! Websites filter list for Brave Goggles
