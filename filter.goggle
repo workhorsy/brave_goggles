@@ -1,0 +1,162 @@
+! Websites filter list for Brave Goggles
+! https://search.brave.com/goggles?q=&source=web
+! https://github.com/workhorsy/brave_goggles/
+
+! G/O Media
+$discard,site=avclub.com
+$discard,site=deadspin.com
+$discard,site=gizmodo.com
+$discard,site=jalopnik.com
+$discard,site=jezebel.com
+$discard,site=kotaku.com
+$discard,site=qz.com
+$discard,site=theroot.com
+$discard,site=theinventory.com
+
+! VOX Media
+$discard,site=eater.com
+$discard,site=curbed.com
+$discard,site=nowthisnews.com
+$discard,site=nymag.com
+$discard,site=polygon.com
+$discard,site=popsugar.com
+$discard,site=seeker.com
+$discard,site=sbnation.com
+$discard,site=thedodo.com
+$discard,site=thrillist.com
+$discard,site=theverge.com
+$discard,site=vox.com
+
+! Vice
+$discard,site=vice.com
+$discard,site=vicenews.com
+
+! Ziff Davis
+$discard,site=ign.com
+$discard,site=everydayhealth.com
+$discard,site=mashable.com
+$discard,site=pcmag.com
+$discard,site=whattoexpect.com
+
+! AOL Verizon Yahoo
+$discard,site=buzzfeed.com
+$discard,site=engadget.com
+$discard,site=techcrunch.com
+$discard,site=huffingtonpost.com
+$discard,site=huffpost.com
+
+! Fox Corporation
+$discard,site=foxnews.com
+$discard,site=foxsports.com
+$discard,site=foxcorporation.com
+
+! NBCUniversal
+$discard,site=cnbc.com
+$discard,site=msn.com
+$discard,site=msnbc.com
+$discard,site=nbc.com
+$discard,site=nbcconnecticut.com
+$discard,site=nbcnews.com
+$discard,site=nbcnewyork.com
+
+! Advance Publications
+$discard,site=allure.com
+$discard,site=arstechnica.com
+$discard,site=condenast.com
+$discard,site=glamour.com
+$discard,site=gq.com
+$discard,site=newyorker.com
+$discard,site=pitchfork.com
+$discard,site=self.com
+$discard,site=them.us
+$discard,site=vanityfair.com
+$discard,site=vogue.com
+$discard,site=wired.com
+
+! Reuters Corporation
+$discard,site=reuters.com
+$discard,site=thomsonreuters.com
+
+! Daily Mail
+$discard,site=dailymail.co.uk
+$discard,site=independent.co.uk
+$discard,site=standard.co.uk
+
+! Al Jazeera Media Network
+$discard,site=aljazeera.com
+$discard,site=aljazeera.net
+$discard,site=ajplus.net
+
+! Warner Bros. Discovery
+$discard,site=cnn.com
+
+! Paramount Global
+$discard,site=cbs.com
+$discard,site=cbsnews.com
+$discard,site=mtv.com
+
+! Penske Media Corporation
+$discard,site=rollingstone.com
+$discard,site=pmc.com
+$discard,site=deadline.com
+$discard,site=indiewire.com
+$discard,site=bgr.com
+$discard,site=variety.com
+$discard,site=tvline.com
+$discard,site=robbreport.com
+$discard,site=artnews.com
+
+! Corporation for Public Broadcasting
+$discard,site=pbs.org
+
+! Red Ventures
+$discard,site=cnet.com
+
+! National Public Radio Inc
+$discard,site=npr.org
+
+! Chris Richmond
+$discard,site=salon.com
+$discard,site=snopes.com
+
+! IAC
+$discard,site=ew.com
+$discard,site=lifewire.com
+$discard,site=thebalancemoney.com
+$discard,site=thedailybeast.com
+$discard,site=people.com
+
+! Axel Springer SE
+$discard,site=politico.com
+$discard,site=businessinsider.com
+$discard,site=insider.com
+
+! News Corp
+$discard,site=wsj.com
+$discard,site=skynews.com.au
+$discard,site=news.sky.com
+$discard,site=newyorkpost.com
+$discard,site=nypost.com
+
+! Recurrent
+$discard,site=recurrent.io
+$discard,site=popsci.com
+$discard,site=thedrive.com
+$discard,site=taskandpurpose.com
+$discard,site=businessofhome.com
+$discard,site=futurism.com
+
+! Gannett
+$discard,site=usatoday.com
+$discard,site=newsquest.co.uk
+
+! Bloomberg L.P.
+$discard,site=bloomberg.com
+$discard,site=news.bloomberglaw.com
+
+! Nash Holdings
+$discard,site=washingtonpost.com
+
+! Graham Holdings
+$discard,site=slate.com
+$discard,site=foreignpolicy.com
